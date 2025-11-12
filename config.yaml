@@ -1,0 +1,8 @@
+evaluator:
+  dates_scale: 10
+  numbers_scale: 20
+  thresholds:
+    contrat délégué: 0.3
+    distributeur délégué: 0.3
+    assureur délégué: 0.3
+    formule déléguée: 1.0
